@@ -214,9 +214,6 @@ color: var(--accent-color-green);
 }
 
 /* HERO */
-.hero {
-}
-
 .hero-container {
   display: flex;
   padding-left: 0;
